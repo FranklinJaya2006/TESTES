@@ -1,0 +1,22 @@
+.Jarak_Nama_dan_H {
+    margin-top: 30px;
+}
+.Margin_Kiri {
+    text-indent: 100px;
+}
+.Jarak_Tabel {
+    margin-left: 30px;
+}
+.form-group {
+    margin-bottom: 20px; /* Atur jarak antara setiap grup form */
+  }
+  
+  label {
+    display: inline-block; /* Biarkan label dan input berbaris */
+    width: 100px; /* Atur lebar label */
+    margin-right: 10px; /* Atur jarak antara label dan input */
+  }
+.tabel{
+    width:400px;
+    height:200px;
+}
